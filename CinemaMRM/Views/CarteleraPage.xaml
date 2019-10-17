@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CinemaMRM.Views.CarteleraPage"
+              Title="Cartelera">
+
+    <ListView x:Name="lsCartelera" ItemSelected="Cartelera_Selected" >
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ImageCell Text="{Binding Nombre}"  Detail="{Binding FechaEstreno}" Detail="{Binding Recomendacion}" Detail= "{Binding Duracion}"  ImageSource="{Binding ImageUrl}" />
+            </DataTemplate>
+          
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

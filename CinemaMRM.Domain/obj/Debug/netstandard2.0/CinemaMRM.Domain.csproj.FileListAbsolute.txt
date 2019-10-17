@@ -1,0 +1,9 @@
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\bin\Debug\netstandard2.0\CinemaMRM.Domain.deps.json
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\bin\Debug\netstandard2.0\CinemaMRM.Domain.dll
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\obj\Debug\netstandard2.0\CinemaMRM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\obj\Debug\netstandard2.0\CinemaMRM.Domain.AssemblyInfoInputs.cache
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\obj\Debug\netstandard2.0\CinemaMRM.Domain.AssemblyInfo.cs
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\bin\Debug\netstandard2.0\CinemaMRM.Domain.pdb
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\obj\Debug\netstandard2.0\CinemaMRM.Domain.dll
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\obj\Debug\netstandard2.0\CinemaMRM.Domain.pdb
+C:\Users\Moises.R\source\repos\CinemaMRM.Domain\obj\Debug\netstandard2.0\CinemaMRM.Domain.csprojAssemblyReference.cache

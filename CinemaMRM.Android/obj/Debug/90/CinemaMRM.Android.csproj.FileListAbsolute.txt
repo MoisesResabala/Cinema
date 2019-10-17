@@ -1,0 +1,4 @@
+C:\Users\Moises.R\source\repos\CinemaMRM\CinemaMRM.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Moises.R\source\repos\CinemaMRM\CinemaMRM.Android\obj\Debug\90\build.props
+C:\Users\Moises.R\source\repos\CinemaMRM\CinemaMRM.Android\obj\Debug\90\adb.props
+C:\Users\Moises.R\source\repos\CinemaMRM\CinemaMRM.Android\obj\Debug\90\CinemaMRM.Android.csprojAssemblyReference.cache

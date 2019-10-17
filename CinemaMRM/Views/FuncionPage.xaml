@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CinemaMRM.Views.FuncionPage">
+    <Grid x:Name="gridDatos" BackgroundColor="White" RowSpacing="10" Padding="20" ColumnSpacing="10 ">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+        <Image Source="{Binding ImageUrl}" Grid.ColumnSpan="2" Grid.Row="0"/>
+        <Label Text="{Binding Nombre} " Grid.ColumnSpan="2" Grid.Row="1" HorizontalOptions="Center"/>
+
+        <Label Text="{Binding FechaEstreno}" Grid.Column="0" Grid.Row="2"/>
+        <Label Text="xxxxxxxxxxxxxx" Grid.Column="1" Grid.Row="2"/>
+
+        <Label Text="{Binding Genero}" Grid.Column="0" Grid.Row="3"/>
+        <Label Text="xxxxxxxxxxxxxx" Grid.Column="1" Grid.Row="3"/>
+
+        <Label Text="{Binding Recomendacion}" Grid.Column="0" Grid.Row="4"/>
+        <Label Text="xxxxxxxxxxxxxx" Grid.Column="1" Grid.Row="4"/>
+
+        <Label Text="{Binding Duracion}" Grid.Column="0" Grid.Row="5"/>
+        <Label Text="xxxxxxxxxxxxxx" Grid.Column="1" Grid.Row="5"/>
+    </Grid>
+</ContentPage>
